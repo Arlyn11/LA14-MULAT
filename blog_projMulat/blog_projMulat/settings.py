@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
-# Dimasimpan
+# MULAT
 # Application definition
 
 INSTALLED_APPS = [
